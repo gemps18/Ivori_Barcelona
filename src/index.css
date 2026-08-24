@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Brand tokens, defined directly in CSS per Tailwind v4's config-free setup.
+   This generates the same utilities (bg-ivory, text-ink, font-sans, etc.)
+   that tailwind.config.snippet.js described for the older v3 flow. */
+@theme {
+  --color-ivory: #f7f5f0;
+  --color-ink: #1b1b1b;
+  --color-latte: #c9b79c;
+  --font-sans: "Helvetica Neue", Helvetica, Inter, Arial, sans-serif;
+}
