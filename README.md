@@ -80,7 +80,7 @@ src/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/<your-username>/ivori-barcelona.git
+git clone https://github.com
 cd ivori-barcelona
 npm install
 ```
